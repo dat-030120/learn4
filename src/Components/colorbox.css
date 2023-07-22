@@ -1,0 +1,15 @@
+.color-box{
+    width: 100px;
+    height: 100px;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    padding: 0.35rem 0.75rem ;
+    background-color: none;
+    border: 2px solid blue;
+    margin: 1rem 0;
+    cursor: pointer;
+}
